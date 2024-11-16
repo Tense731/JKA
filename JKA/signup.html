@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <form>
+        <h1>Sign Up</h1>
+        <div class="text-box">
+            <input type="text" placeholder="First Name" name="username">
+        </div>
+        <div class="text-box">
+            <input type="text" placeholder="Last Name" name="username">
+        </div>
+        <div class="text-box">
+            <input type="text" placeholder="Email" name="username">
+        </div>
+        <div class="text-box">
+        <input type="password" placeholder="Password" name="password">
+        </div>
+        <div class="text-box">
+            <input type="text" placeholder="Re-enter Password" name="username">
+        </div>
+        <input type="submit" class="signbtn">
+        <div>
+            Already have an account?
+            <br>
+            <a href="login.html">Log In</a>
+        </div>
+    </form>
+    <script>
+        var signbtn = document.querySelector('.signbtn')
+signbtn.addEventListener('click', function(){
+    alert('Sign Up Successful')
+
+})
+    </script>
+</body>
+</html>
