@@ -1,0 +1,45 @@
+.coaches-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2em;
+  }
+  
+  .coach {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: calc(33.33% - 20px);
+  }
+  
+  .coach img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .coach h3 {
+    margin-bottom: 0.5em;
+  }
+  
+  .coach p {
+    margin-bottom: 1em;
+  }
+  
+  .coach ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .coach li {
+    margin-bottom: 0.5em;
+  }
+  
+  .coach li::before {
+    content: "-";
+    margin-right: 0.5em;
+  }
+  

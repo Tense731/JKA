@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://www.soccer-solutions.co.uk/ -->
+<html lang="en-US" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js_active  vc_desktop  vc_transform  vc_transform " style="height: auto; overflow: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="origin-trial" content="A/kargTFyk8MR5ueravczef/wIlTkbVk1qXQesp39nV+xNECPdLBVeYffxrM8TmZT6RArWGQVCJ0LRivD7glcAUAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+	
+	
+				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+		
+            
+            
+	<style data-tippy-stylesheet="">.tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(100vw - 10px)}.tippy-box{position:relative;background-color:#333;color:#fff;border-radius:4px;font-size:14px;line-height:1.4;white-space:normal;outline:0;transition-property:transform,visibility,opacity}.tippy-box[data-placement^=top]>.tippy-arrow{bottom:0}.tippy-box[data-placement^=top]>.tippy-arrow:before{bottom:-7px;left:0;border-width:8px 8px 0;border-top-color:initial;transform-origin:center top}.tippy-box[data-placement^=bottom]>.tippy-arrow{top:0}.tippy-box[data-placement^=bottom]>.tippy-arrow:before{top:-7px;left:0;border-width:0 8px 8px;border-bottom-color:initial;transform-origin:center bottom}.tippy-box[data-placement^=left]>.tippy-arrow{right:0}.tippy-box[data-placement^=left]>.tippy-arrow:before{border-width:8px 0 8px 8px;border-left-color:initial;right:-7px;transform-origin:center left}.tippy-box[data-placement^=right]>.tippy-arrow{left:0}.tippy-box[data-placement^=right]>.tippy-arrow:before{left:-7px;border-width:8px 8px 8px 0;border-right-color:initial;transform-origin:center right}.tippy-box[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-arrow{width:16px;height:16px;color:#333}.tippy-arrow:before{content:"";position:absolute;border-color:transparent;border-style:solid}.tippy-content{position:relative;padding:5px 9px;z-index:1}</style><link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.soccer-solutions.co.uk/xmlrpc.php">
+
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Soccer Solutions - Soccer Solutions Dorset</title>
+	<link rel="canonical" href="https://www.soccer-solutions.co.uk/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Soccer Solutions - Soccer Solutions Dorset">
+	<meta property="og:url" content="https://www.soccer-solutions.co.uk/">
+	<meta property="og:site_name" content="Soccer Solutions Dorset">
+	<meta property="article:publisher" content="https://www.facebook.com/SoccerSolutions/">
+	<meta property="article:modified_time" content="2023-09-15T11:30:38+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>                 .fluid-width-video-wrapper {                   width: 100%;                                position: relative;                         padding: 0;                      					 min-height: 1px;                         }                                                                                       .fluid-width-video-wrapper iframe,          .fluid-width-video-wrapper object,          .fluid-width-video-wrapper embed {             position: absolute;                         top: 0;                                     left: 0;                                    width: 100%;                                height: 100%;                            }                                         </style></div><script type="text/javascript" async="" charset="utf-8" src="./bg_files/recaptcha__en.js.download" crossorigin="anonymous" integrity="sha384-C0eb2CrhokW3SgZMDSrT/ioPvOCBoj1s7JouJ8IrLFB+j5cW9qY3JDWtShxtCryz"></script><script src="./bg_files/sdk.js.download" async="" crossorigin="anonymous"></script><script id="facebook-jssdk" src="./bg_files/sdk(1).js.download"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.soccer-solutions.co.uk/","url":"https://www.soccer-solutions.co.uk/","name":"Soccer Solutions - Soccer Solutions Dorset","isPartOf":{"@id":"https://www.soccer-solutions.co.uk/#website"},"about":{"@id":"https://www.soccer-solutions.co.uk/#organization"},"datePublished":"2018-03-07T15:25:14+00:00","dateModified":"2023-09-15T11:30:38+00:00","breadcrumb":{"@id":"https://www.soccer-solutions.co.uk/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.soccer-solutions.co.uk/"]}]},{"@type":"BreadcrumbList","@id":"https://www.soccer-solutions.co.uk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.soccer-solutions.co.uk/#website","url":"https://www.soccer-solutions.co.uk/","name":"Soccer Solutions Dorset","description":"The company that cares about your Soccer needs!","publisher":{"@id":"https://www.soccer-solutions.co.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.soccer-solutions.co.uk/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.soccer-solutions.co.uk/#organization","name":"Soccer Solutions Dorset","url":"https://www.soccer-solutions.co.uk/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.soccer-solutions.co.uk/#/schema/logo/image/","url":"https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small.png","contentUrl":"https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small.png","width":350,"height":48,"caption":"Soccer Solutions Dorset"},"image":{"@id":"https://www.soccer-solutions.co.uk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/SoccerSolutions/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="https://maps.googleapis.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="alternate" type="application/rss+xml" title="Soccer Solutions Dorset » Feed" href="https://www.soccer-solutions.co.uk/feed/">
+<link rel="alternate" type="application/rss+xml" title="Soccer Solutions Dorset » Comments Feed" href="https://www.soccer-solutions.co.uk/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.soccer-solutions.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="layerslider-css" href="./bg_files/layerslider.css" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="./bg_files/style.min.css" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./bg_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./bg_files/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="timetable_sf_style-css" href="./bg_files/superfish.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_gtip2_style-css" href="./bg_files/jquery.qtip.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_style-css" href="./bg_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_event_template-css" href="./bg_files/event_template.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_responsive_style-css" href="./bg_files/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="timetable_font_lato-css" href="./bg_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="anwpfl_styles-css" href="./bg_files/styles.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="anwpfl_flags-css" href="./bg_files/flags32.css" type="text/css" media="all">
+<link rel="stylesheet" id="anwpfl_flags_16-css" href="./bg_files/flags16.css" type="text/css" media="all">
+<link rel="stylesheet" id="modaal-css" href="./bg_files/modaal.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="plyr-css" href="./bg_files/plyr.css" type="text/css" media="all">
+<link rel="stylesheet" id="tippy-light-border-css" href="./bg_files/light-border.css" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="./bg_files/mediaelementplayer-legacy.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="./bg_files/wp-mediaelement.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-default-style-css" href="./bg_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-font_awesome-css" href="./bg_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-font_elegant-css" href="./bg_files/style(1).min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-linea_icons-css" href="./bg_files/style(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-dripicons-css" href="./bg_files/dripicons.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-kiko-css" href="./bg_files/kiko-all.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-qode-font_awesome_5-css" href="./bg_files/font-awesome-5.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-stylesheet-css" href="./bg_files/stylesheet.min.css" type="text/css" media="all">
+<style id="bridge-stylesheet-inline-css" type="text/css">
+   .page-id-23.disabled_footer_top .footer_top_holder, .page-id-23.disabled_footer_bottom .footer_bottom_holder { display: none;}
+
+
+</style>
+<link rel="stylesheet" id="bridge-print-css" href="./bg_files/print.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-timetable-css" href="./bg_files/timetable-schedule.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-timetable-responsive-css" href="./bg_files/timetable-schedule-responsive.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-style-dynamic-css" href="./bg_files/style_dynamic.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-responsive-css" href="./bg_files/responsive.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-style-dynamic-responsive-css" href="./bg_files/style_dynamic_responsive.css" type="text/css" media="all">
+<style id="bridge-style-dynamic-responsive-inline-css" type="text/css">
+.qbutton.big_large_full_width{
+    box-sizing: border-box!important;
+}
+
+.q_team .q_social_icon_holder.normal_social a{
+    height: 38px;
+    width: 38px;
+    line-height: 42px;
+    text-align: center;
+    border: 3px solid #c2c2c2;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.q_team .q_team_social_holder .q_social_icon_holder i.simple_social{
+    color: #000;
+}
+
+.q_team .q_social_icon_holder.normal_social a:hover{
+    background-color: #c5181e;
+    border-color: #c5181e;
+}
+
+.q_team .q_team_social_holder .q_social_icon_holder:hover .simple_social{
+    color: #0a0a0a!important;
+}
+
+.q_team .q_team_social_holder .q_social_icon_holder.normal_social:first-child {
+    margin-left: 0;
+}
+.q_team .q_team_social_holder .q_social_icon_holder i.simple_social, .q_team .q_team_social_holder .q_social_icon_holder span.simple_social {
+    font-size: 17px;
+}
+.q_social_icon_holder.normal_social {
+    margin: 0 3px;
+}
+.footer_top .widget_nav_menu ul li {
+  padding: 0 0 13px;
+}
+@media only screen and (max-width: 768px){
+    .tt_responsive .tt_timetable{
+        display: none;
+    }
+
+    .tt_timetable.small{
+        display: block;
+    }
+}
+
+.side_menu_button .popup_menu:hover{
+    opacity: 1;
+}
+.side_menu_button>a.popup_menu{
+    top: 2px;
+}
+@media only screen and (max-width: 480px){
+    .qode-instagram-feed.qode-col-3 li{
+        width: 50%;
+    }
+    .qode-instagram-feed li img{
+        width: 100%;
+    }
+}
+</style>
+<link rel="stylesheet" id="js_composer_front-css" href="./bg_files/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-style-handle-google-fonts-css" href="./bg_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-core-dashboard-style-css" href="./bg_files/core-dashboard.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="./bg_files/default.css" type="text/css" media="all">
+<link rel="stylesheet" id="bridge-childstyle-css" href="./bg_files/style(3).css" type="text/css" media="all">
+<script type="text/javascript" src="./bg_files/ScrollToPlugin.min.js.download" id="ScrollToPlugin-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./bg_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="layerslider-utils-js-extra">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/layerslider.utils.js.download" id="layerslider-utils-js"></script>
+<script type="text/javascript" src="./bg_files/layerslider.kreaturamedia.jquery.js.download" id="layerslider-js"></script>
+<script type="text/javascript" src="./bg_files/layerslider.transitions.js.download" id="layerslider-transitions-js"></script>
+<script type="text/javascript" src="./bg_files/rbtools.min.js.download" id="tp-tools-js"></script>
+<script type="text/javascript" src="./bg_files/rs6.min.js.download" id="revmin-js"></script>
+<script type="text/javascript" src="./bg_files/modaal.min.js.download" id="modaal-js"></script>
+<script type="text/javascript" src="./bg_files/plyr.polyfilled.min.js.download" id="plyr-js"></script>
+<meta name="generator" content="Powered by LayerSlider 6.11.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://www.soccer-solutions.co.uk/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.soccer-solutions.co.uk/wp-json/wp/v2/pages/23"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.soccer-solutions.co.uk/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.2">
+<link rel="shortlink" href="https://www.soccer-solutions.co.uk/">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.soccer-solutions.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.soccer-solutions.co.uk%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.soccer-solutions.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.soccer-solutions.co.uk%2F&amp;format=xml">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.4.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Icon-1-150x150.png" sizes="32x32">
+<link rel="icon" href="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Icon-1.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Icon-1.png">
+<meta name="msapplication-TileImage" content="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Icon-1.png">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			/* -- Logo Size Mobile -- */
+
+@media screen and (max-width: 1000px) {
+	.q_logo img {
+		width: 70% !important;
+		height: auto  !important;
+		padding-top: 10px;
+	}
+}
+
+/* -- Typography -- */
+
+.wpb_wrapper h5, .wpb_wrapper p {
+	margin-bottom: 20px;
+}
+
+input.wpcf7-form-control.wpcf7-date, input.wpcf7-form-control.wpcf7-number, input.wpcf7-form-control.wpcf7-quiz, input.wpcf7-form-control.wpcf7-text, select.wpcf7-form-control.wpcf7-select, textarea.wpcf7-form-control.wpcf7-textarea {
+	font-size: 15px;
+}
+
+.wpcf7 form.sent .wpcf7-response-output, div.wpcf7-response-output.wpcf7-mail-sent-ok {
+	background: #022858;
+}
+
+.go-white h3 {
+	color: #fff;
+}
+
+.wpcf7-response-output {
+	color: #fff !important;
+	background: #032858;
+}
+
+/* -- Page Padding -- */
+
+.content .container .container_inner.default_template_holder, .content .container .container_inner.page_container_inner {
+	padding-bottom: 80px;
+}
+
+
+/* -- Page Content Filter -- */
+
+h2 .entry_date, .blog_single .post_info, .blog_single .comment_holder, .blog_single .comment_form, .blog_single .comment_pager, .anwp-b-wrap.squad, .match-slim__team-home-logo, .match-slim__team-away-logo  {
+	display: none !important;
+}
+
+.blog_single h2 {
+	margin-bottom:45px;
+}
+
+/* -- Page Title BG -- */
+
+@media screen and (min-width: 1001px) {
+	.page-template .title {
+	  background-position: center -400px !important;
+	}
+}
+
+/* -- League Table Styles -- */
+
+.standing-1716 .standing-table__points, .standing-1716 .standing-table__points {
+	visibility: hidden;
+}
+
+.standing-1716 .anwp-grid-table--bordered {
+	border-top: 0px;
+}
+
+.standing-1716 .anwp-grid-table__th {
+	border-top: 1px solid #ced4da;
+}
+
+.standing-table__points {
+	background: #e1ebf7;
+	font-weight: 500;
+}
+
+/* -- Table Data -- */
+
+.column-1 {
+	font-weight: bold;
+}
+
+@media screen and (max-width:650px) {
+	.mtr-table .mtr-td-tag.empty-cell {
+		display:none !important;
+	}
+	
+	.mtr-table tr td.mtr-td-tag:nth-child(1) {
+	background: #D9ECF7 !important;
+ }
+}
+
+.inline-buttons a {
+	margin-left:15px;
+}
+
+/* -- Match Data -- */
+
+.match-slim__footer {
+	color: #032858;
+	font-weight: 500;
+	padding-top:5px;
+}
+
+@media screen and (max-width: 1000px) {
+	.match-slim__main-meta {
+		padding-bottom:25px;
+	}
+	.match-slim__competition-wrapper {
+		text-align: right;
+	}
+	.match-slim__scores-number {
+		min-width: 24px !important;
+		margin: 0px 4px;
+		background: #d61921;
+		color: #fff;
+	}
+	.inline-buttons a {
+		margin-bottom: 5px;
+	}
+	
+}
+
+.qode-advanced-tab-container:nth-child(3) .match-list  {
+	margin-bottom: 20px;
+}
+
+/* -- Image Gallery -- */
+
+.image-gallery a {
+	border: 12px solid #fff;
+}
+
+.image-gallery img {
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	width: 100% !important;
+}
+
+.image-gallery-main a {
+	border: 15px solid #fff;
+}
+
+.image-gallery-main img {
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	width: 100% !important;
+}
+
+.ppt {
+	text-align: center;
+	margin: 0px !important;
+	padding-bottom: 10px !important;
+	
+}		</style>
+		<style type="text/css" data-type="vc_custom-css">.q_icon_with_title .icon_text_inner {
+    padding: 0px 0 6px;
+}
+.q_icon_with_title.custom_icon_image.center .icon_holder {
+    margin: 0 0 24px;
+}
+.q_icon_with_title.large .icon_text_holder .icon_title {
+      margin-bottom: 12px;
+}
+table.tt_timetable th {
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+table.tt_timetable .event .event_header {
+   font-weight: 500;
+   text-transform: uppercase; 
+   letter-spacing: 1px;
+   font-size: 13px;
+   margin-bottom: 10px
+}
+table.tt_timetable td {
+   color: #0a0a0a;
+   font-weight: 500;
+   font-size: 13px;
+}
+table.tt_timetable .event .before_hour_text, .tt_tabs .tt_timetable .event .before_hour_text, .tt_tabs .tt_timetable .event .after_hour_text{
+    font-size: 15px!important;
+    font-weight: 300;
+    color: #8c8c8c!important;
+}
+.tt_timetable thead tr th:first-child:after{
+    content:'Time';
+}
+.tt_tabs .tt_timetable .event{
+    vertical-align: middle;
+}
+table.tt_timetable .event .tt_tooltip_content a{
+    display: none;
+}
+table.tt_timetable .tt_tooltip .tt_tooltip_arrow, table.tt_timetable .tt_tooltip .tt_tooltip_arrow:before{
+    border-color: #fefe00 transparent;
+}
+table.tt_timetable .tt_tooltip_content {
+    color: #0a0a0a!important;
+    background: #c5181e;
+    padding: 20px;
+    border-radius: 0;
+    text-transform: uppercase;
+    border: 0px;
+}
+table.tt_timetable .event .event_header:not(:only-child) {
+    margin-bottom: 4px;
+}
+
+.q_team .q_team_title_holder {
+    text-align: left;
+}
+.tt_navigation_wrapper{
+    display: none;
+}
+.q_team .q_team_social_holder {
+    text-align: left;
+}
+.q_team .q_team_text {
+   padding: 25px 0px;
+}
+.q_team .q_team_title_holder .q_team_name {
+    margin-bottom: -1px;
+}
+.q_team .q_team_title_holder {
+    margin: 0px 0 13px;
+}
+.q_team .q_team_title_holder span{
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1520589639830{background-color: #060603 !important;}.vc_custom_1520500993356{background-image: url(https://bridge177.qodeinteractive.com/wp-content/uploads/2018/03/home-background-img-1.jpg?id=6) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1520504223686{background-color: #ffffff !important;}.vc_custom_1520519566603{background-color: #c5181e !important;}.vc_custom_1520590756415{margin-top: -260px !important;}.vc_custom_1520590814277{margin-top: 0px !important;}.vc_custom_1520590809853{margin-top: 0px !important;}.vc_custom_1520590803613{margin-top: 0px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+    <!-- BEGIN - Make Tables Responsive -->
+    <style type="text/css">
+        
+    /* Multi-row tables */
+    @media (max-width: 650px) {
+
+        .mtr-table tbody,
+        .mtr-table {
+        	width: 100% !important;
+            display: table !important;
+        }
+
+        .mtr-table tr,
+        .mtr-table .mtr-th-tag,
+        .mtr-table .mtr-td-tag {
+        	display: block !important;
+            clear: both !important;
+            height: auto !important;
+        }
+
+        .mtr-table .mtr-td-tag,
+        .mtr-table .mtr-th-tag {
+        	text-align: right !important;
+            width: auto !important;
+            box-sizing: border-box !important;
+            overflow: auto !important;
+        }
+    
+            .mtr-table .mtr-cell-content {
+            	text-align: right !important;
+            }
+            
+        .mtr-table tbody,
+        .mtr-table tr,
+        .mtr-table {
+        	border: none !important;
+            padding: 0 !important;
+        }
+
+        .mtr-table .mtr-td-tag,
+        .mtr-table .mtr-th-tag {
+        	border: none;
+        }
+
+        .mtr-table tr:nth-child(even) .mtr-td-tag,
+        .mtr-table tr:nth-child(even) .mtr-th-tag {
+            border-bottom: 1px solid #efefef !important;
+            border-left: 1px solid #efefef !important;
+            border-right: 1px solid #efefef !important;
+            border-top: none !important;
+        }
+
+        .mtr-table tr:nth-child(odd) .mtr-td-tag,
+        .mtr-table tr:nth-child(odd) .mtr-th-tag {
+            border-bottom: 1px solid #efefef !important;
+            border-left: 1px solid #efefef !important;
+            border-right: 1px solid #efefef !important;
+            border-top: none !important;
+        }
+
+        .mtr-table tr:first-of-type td:first-of-type,
+        .mtr-table tr:first-of-type th:first-of-type {
+            border-top: 1px solid #efefef !important;
+        }
+
+        .mtr-table.mtr-thead-td tr:nth-of-type(2) td:first-child,
+        .mtr-table.mtr-thead-td tr:nth-of-type(2) th:first-child,
+        .mtr-table.mtr-tr-th tr:nth-of-type(2) td:first-child,
+        .mtr-table.mtr-tr-th tr:nth-of-type(2) th:first-child,
+        .mtr-table.mtr-tr-td tr:nth-of-type(2) td:first-child,
+        .mtr-table.mtr-tr-td tr:nth-of-type(2) th:first-child {
+            border-top: 1px solid #efefef !important;
+        }
+            .mtr-table tr:nth-child(even),
+            .mtr-table tr:nth-child(even) .mtr-td-tag,
+            .mtr-table tr:nth-child(even) .mtr-th-tag {
+                background: #ffffff !important;
+            }
+
+            .mtr-table tr:nth-child(odd),
+            .mtr-table tr:nth-child(odd) .mtr-td-tag,
+            .mtr-table tr:nth-child(odd) .mtr-th-tag {
+                background: #f7f7f7 !important;
+            }
+        .mtr-table .mtr-td-tag,
+        .mtr-table .mtr-td-tag:first-child,
+        .mtr-table .mtr-th-tag,
+        .mtr-table .mtr-th-tag:first-child {
+            padding: 5px 10px !important;
+        }
+        
+        .mtr-table td[data-mtr-content]:before,
+        .mtr-table th[data-mtr-content]:before {
+        	display: inline-block !important;
+        	content: attr(data-mtr-content) !important;
+        	float: left !important;
+            text-align: left !important;
+            white-space: pre-line !important;
+        }
+        
+        .mtr-table thead,
+        .mtr-table.mtr-tr-th tr:first-of-type,
+        .mtr-table.mtr-tr-td tr:first-of-type,
+        .mtr-table colgroup {
+        	display: none !important;
+        }
+    
+        .mtr-cell-content {
+            max-width: 49% !important;
+            display: inline-block !important;
+        }
+            
+        .mtr-table td[data-mtr-content]:before,
+        .mtr-table th[data-mtr-content]:before {
+            max-width: 49% !important;
+        }
+            
+    }
+    
+    /* Single-row tables */
+    @media (max-width: 650px) {
+
+        .mtr-one-row-table .mtr-td-tag,
+        .mtr-one-row-table .mtr-th-tag {
+            box-sizing: border-box !important;
+        }
+
+        .mtr-one-row-table colgroup {
+        	display: none !important;
+        }
+
+    
+        .mtr-one-row-table tbody,
+        .mtr-one-row-table tr,
+        .mtr-one-row-table {
+        	border: none !important;
+            padding: 0 !important;
+            width: 100% !important;
+            display: block;
+        }
+
+        .mtr-one-row-table .mtr-td-tag,
+        .mtr-one-row-table .mtr-th-tag {
+            border: none;
+        }
+        
+        .mtr-one-row-table .mtr-td-tag,
+        .mtr-one-row-table .mtr-th-tag {
+        	display: block !important;
+            width: 50% !important;
+        }
+        .mtr-one-row-table tr {
+            display: flex !important;
+            flex-wrap: wrap !important;
+        }
+        
+            .mtr-one-row-table td:nth-child(4n+1),
+            .mtr-one-row-table th:nth-child(4n+1),
+            .mtr-one-row-table td:nth-child(4n+2),
+            .mtr-one-row-table th:nth-child(4n+2) {
+                background: #dddddd !important;
+            }
+
+            .mtr-one-row-table th:nth-child(2n+1),
+            .mtr-one-row-table td:nth-child(2n+1) {
+                border-right: 1px solid #bbbbbb !important;
+                border-left: 1px solid #bbbbbb !important;
+            }
+
+            .mtr-one-row-table td:nth-child(2n+2),
+            .mtr-one-row-table th:nth-child(2n+2) {
+                border-right: 1px solid #bbbbbb !important;
+            }
+
+            /* last two */
+            .mtr-one-row-table td:nth-last-child(-n+2),
+            .mtr-one-row-table th:nth-last-child(-n+2) {
+                border-bottom: 1px solid #bbbbbb !important;
+            }
+            
+        .mtr-one-row-table .mtr-td-tag,
+        .mtr-one-row-table .mtr-th-tag {
+            border-top: 1px solid #bbbbbb !important;
+            padding: 5px 10px !important;
+        }
+        
+    }
+    </style>
+    <!-- END - Make Tables Responsive -->
+        <style>#rev_slider_1_1_wrapper { height: 990px }</style><script src="./bg_files/wp-emoji-release.min.js.download" defer=""></script><style type="text/css">[responsive-image] > img, [data-responsive-image] {overflow: hidden; padding: 0; } [responsive-image] > img, [data-responsive-image] > img {width: 100%;}
+@keyframes element-queries { 0% { visibility: inherit; } }
+.stadium-header__options {animation: 0.1s element-queries;}
+.stadium-header__options > .resize-sensor {min-width: 0px;}
+.staff-history__wrapper {animation: 0.1s element-queries;}
+.staff-history__wrapper > .resize-sensor {min-width: 1px;}
+.player-matches__wrapper {animation: 0.1s element-queries;}
+.player-matches__wrapper > .resize-sensor {min-width: 2px;}
+.player-missed__wrapper {animation: 0.1s element-queries;}
+.player-missed__wrapper > .resize-sensor {min-width: 3px;}
+.players-shortcode {animation: 0.1s element-queries;}
+.players-shortcode > .resize-sensor {min-width: 4px;}
+.player-block__header {animation: 0.1s element-queries;}
+.player-block__header > .resize-sensor {min-width: 5px;}
+.standing-table-mini {animation: 0.1s element-queries;}
+.standing-table-mini > .resize-sensor {min-width: 6px;}
+.standing-table {animation: 0.1s element-queries;}
+.standing-table > .resize-sensor {min-width: 7px;}
+.squad-rows {animation: 0.1s element-queries;}
+.squad-rows > .resize-sensor {min-width: 8px;}
+.squad-rows.squad-rows__staff {animation: 0.1s element-queries;}
+.squad-rows.squad-rows__staff > .resize-sensor {min-width: 9px;}</style><style type="text/css">@media only screen and (min-width: 768px) and (max-width: 1024px) {.q_elements_item_content.q_elements_holder_custom_799841 { padding: 0px 21px 0 0 !important; } }@media only screen and (min-width: 680px) and (max-width: 768px) {.q_elements_item_content.q_elements_holder_custom_799841 { padding: 0 0 0 0 !important; } }@media only screen and (min-width: 480px) and (max-width: 680px) {.q_elements_item_content.q_elements_holder_custom_799841 { padding: 0 0 0 0 !important; } }@media only screen and (max-width: 480px) {.q_elements_item_content.q_elements_holder_custom_799841 { padding: 0 0 0 0 !important; } }</style><style type="text/css">@media only screen and (min-width: 1024px) and (max-width: 1280px) {.q_elements_item_content.q_elements_holder_custom_817196 { padding: 35px 81px 0 0 !important; } }@media only screen and (min-width: 768px) and (max-width: 1024px) {.q_elements_item_content.q_elements_holder_custom_817196 { padding: 18px 0 0 0 !important; } }@media only screen and (min-width: 680px) and (max-width: 768px) {.q_elements_item_content.q_elements_holder_custom_817196 { padding: 0 0 0 0 !important; } }@media only screen and (min-width: 480px) and (max-width: 680px) {.q_elements_item_content.q_elements_holder_custom_817196 { padding: 0 0 0 0 !important; } }@media only screen and (max-width: 480px) {.q_elements_item_content.q_elements_holder_custom_817196 { padding: 0 0 0 0 !important; } }</style><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style><script type="text/javascript" charset="UTF-8" src="./bg_files/common.js.download"></script><script type="text/javascript" charset="UTF-8" src="./bg_files/util.js.download"></script></head>
+
+<body data-rsssl="1" class="home page-template page-template-full_width page-template-full_width-php page page-id-23 bridge-core-2.6.7 anwp-hide-titles theme--bridge qode-title-hidden qode_grid_1200 qode_popup_menu_text_scaledown footer_responsive_adv qode-child-theme-ver-1.0.0 qode-theme-ver-25.2 qode-theme-bridge wpb-js-composer js-comp-ver-6.6.0 vc_responsive anwp-fl-css-query-ready anwpfl-ready qode-chrome" itemscope="" itemtype="http://schema.org/WebPage" style="height: auto; overflow: auto;">
+
+
+
+
+<div class="wrapper">
+	<div class="wrapper_inner">
+
+    
+		<!-- Google Analytics start -->
+				<!-- Google Analytics end -->
+
+		
+	<header class=" scroll_header_top_area  stick transparent scrolled_not_transparent page_header">
+	<div class="header_inner clearfix">
+				<div class="header_top_bottom_holder">
+			
+			<div class="header_bottom clearfix" style=" background-color:rgba(255, 255, 255, 0);">
+											<div class="header_inner_left">
+																								<div class="logo_wrapper">
+	<div class="q_logo">
+		<a itemprop="url" href="https://www.soccer-solutions.co.uk/" style="height: 48px; visibility: visible;">
+             <img itemprop="image" class="normal" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 			 <img itemprop="image" class="light" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 			 <img itemprop="image" class="dark" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 			 <img itemprop="image" class="sticky" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 			 <img itemprop="image" class="mobile" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 			 <img itemprop="image" class="popup" src="./bg_files/Soccer-Solutions-Logo-Small.png" alt="Logo" style="height: 100%;"> 		</a>
+	</div>
+	</div>															</div>
+															<div class="header_inner_right">
+									<div class="side_menu_button_wrapper right">
+																					<div class="header_bottom_right_widget_holder"><div class="widget_text header_bottom_widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div></div>
+																														<div class="side_menu_button">
+																							<a href="javascript:void(0)" class="popup_menu normal qode_popup_menu_text_scaledown ">
+		<i class="fa fa-bars"></i>	</a>
+											
+										</div>
+									</div>
+								</div>
+							
+							
+							<nav class="main_menu drop_down right">
+															</nav>
+														<nav class="mobile_menu">
+	</nav>											</div>
+			</div>
+		</div>
+
+</header>	<a id="back_to_top" href="https://www.soccer-solutions.co.uk/#" class="off">
+        <span class="fa-stack">
+            <i class="qode_icon_font_awesome fa fa-arrow-up "></i>        </span>
+	</a>
+    <div class="popup_menu_holder_outer" style="height: 773px; overflow-y: hidden; outline: none;" tabindex="0">
+        <div class="popup_menu_holder ">
+            <div class="popup_menu_holder_inner">
+                <nav class="popup_menu">
+					<ul id="menu-main-menu" class=""><li id="popup-menu-item-1800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-23 current_page_item active"><a href="https://www.soccer-solutions.co.uk/" class=" current "><span>Home</span></a></li>
+<li id="popup-menu-item-2054" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/our-leagues/" class=""><span>Results &amp; Fixtures</span></a></li>
+<li id="popup-menu-item-1789" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/about-us/" class=""><span>About Us</span></a></li>
+<li id="popup-menu-item-2065" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/league-information/" class=""><span>League Info</span></a></li>
+<li id="popup-menu-item-2053" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/register-your-team/" class=""><span>Register Your Team</span></a></li>
+<li id="popup-menu-item-2157" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/our-gallery/" class=""><span>Gallery</span></a></li>
+<li id="popup-menu-item-1797" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.soccer-solutions.co.uk/contact-us/" class=""><span>Contact Us</span></a></li>
+</ul>                </nav>
+				            </div>
+        </div>
+    </div>
+	
+	
+    
+    	
+    
+    <div class="content " style="min-height: 279px;">
+        <div class="content_inner  ">
+    					<div class="full_width">
+	<div class="full_width_inner">
+										<div class="vc_row wpb_row section vc_row-fluid  vc_custom_1520589639830" style=" text-align:left;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+			<!-- START Home REVOLUTION SLIDER 6.4.2 -->
+			<rs-fullwidth-wrap id="rev_slider_1_1_forcefullwidth" style="margin-top:0px;margin-bottom:0px;"><rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background: transparent; padding: 0px; margin: 0px auto; width: 1583px; height: 990px; visibility: visible; position: absolute; overflow: visible; left: 0px;"><rs-module id="rev_slider_1_1" style="width: 1583px; height: 990px; max-height: 990px;" data-version="6.4.2" data-idcheck="true" class="revslider-initialised rev_redraw_on_blurfocus" data-slideactive="rs-1">
+					
+				<rs-progress style="visibility:hidden;"><rs-progress-bar style="background: rgba(255, 255, 255, 0.5);"></rs-progress-bar></rs-progress><rs-slides style="visibility: visible; max-height: none; height: 100%; width: 100%; overflow: hidden;">
+						<rs-slide data-key="rs-1" data-title="Slide" data-anim="ms:300;" data-in="o:0;y:100%;" data-out="a:false;" data-originalindex="1" data-origindex="0" data-description="" data-sba="" data-scroll-based="false" style="overflow: hidden; height: 100%; width: 100%; z-index: 20; opacity: 1; visibility: inherit;" data-owidth="1920" data-oheight="1280" data-rspausetimeronce="0" data-isactiveslide="true"><rs-sbg-px style="transform: translate(0px, 0px); backface-visibility: hidden; left: 0px; top: 0px; position: absolute;"><rs-sbg-wrap data-key="rs-1" data-owidth="1920" data-oheight="1280"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img fetchpriority="high" decoding="async" src="//www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Home-Background.jpg" title="Soccer Solutions Home Background" width="1920" height="1280" data-parallax="6" class="rev-slidebg" data-no-retina="">--><rs-dotted style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAAXNSR0IArs4c6QAAABRJREFUGFdjZGBg+M/AwMDIyAAFAA4pAQP4L554AAAAAElFTkSuQmCC)"></rs-dotted><rs-sbg class="" data-bgcolor="transparent" style="width: 100%; height: 100%;" data-src-rs-ref="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Home-Background.jpg"><canvas style="width: 100%; height: 100%; background-color: transparent; opacity: 1; filter: none;" width="1583" height="990"></canvas></rs-sbg></rs-sbg-wrap></rs-sbg-px>
+							
+<!--
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 286px; top: 335px; z-index: 8; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-xy="x:c;xo:0,0,-1px,0;y:m;yo:-115px,-185px,-246px,-235px;" data-text="s:60,40,30,20;l:90,50,50,40;ls:8px,8px,3px,1px;fw:700;a:center;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50px;" data-frame_1="st:300;sp:500;sR:300;" data-frame_999="o:0;st:w;sR:2700;" style="z-index: 8; font-family: Rubik; height: auto; width: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 90px; letter-spacing: 8px; font-weight: 700; font-size: 60px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">DORSET 6-A-SIDE LEAGUES 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 306px; top: 437px; z-index: 9; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-xy="x:c;y:m;yo:-40px,-142px,-208px,-189px;" data-text="w:nowrap,nowrap,nowrap,normal;s:28,28,24,17;l:36,36,36,23;fw:300;a:center;" data-dim="w:auto,auto,auto,232px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50px;" data-frame_1="st:500;sp:500;sR:500;" data-frame_999="o:0;st:w;sR:2500;" style="z-index: 9; font-family: Rubik; height: auto; width: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 36px; letter-spacing: 0px; font-weight: 300; font-size: 28px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true">New Teams Welcome. Call 07970983318. New Season Starts December 2024.  
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 465px; top: 502px; z-index: 10; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-3" data-type="text" data-xy="x:c;xo:-150px,-190px,-80px,0;y:m;yo:50px,-70px,-90px,-115px;" data-text="w:normal;l:22;a:center;" data-dim="w:353px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50px;" data-frame_1="st:700;sp:500;sR:700;" data-frame_999="o:0;st:w;sR:2300;" style="z-index: 10; font-family: Rubik; height: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: normal; width: 353px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 22px; letter-spacing: 0px; font-weight: 400; font-size: 20px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><a itemprop="url" href="https://www.soccer-solutions.co.uk/our-leagues/" target="_self" data-hover-background-color="#e5272d" data-hover-border-color="#e5272d" data-hover-color="#000000" class="qbutton  default" style="color: rgb(0, 0, 0); border-color: rgb(214, 25, 33); margin: 11px 8px; background-color: rgb(214, 25, 33);">View Results</a>&nbsp;&nbsp; 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+
+							--><rs-layer-wrap class="rs-parallax-wrap" style="position: absolute; display: block; pointer-events: auto; left: 744px; top: 502px; z-index: 11; visibility: visible; perspective: 601px;"><rs-loop-wrap style="position:absolute;display:block;"><rs-mask-wrap style="position: absolute; display: block; overflow: visible;"><rs-layer id="slider-1-slide-1-layer-4" data-type="text" data-xy="x:c;xo:129px,169px,90px,0;y:m;yo:50px,-70px,-90px,-40px;" data-text="w:normal;l:22;a:center;" data-dim="w:353px;" data-basealign="slide" data-rsp_o="off" data-rsp_bd="off" data-frame_0="y:50px;" data-frame_1="st:700;sp:500;sR:700;" data-frame_999="o:0;st:w;sR:2300;" style="z-index: 11; font-family: &quot;Open Sans&quot;; height: auto; color: rgb(255, 255, 255); text-decoration: none; white-space: normal; width: 353px; min-height: 0px; min-width: 0px; max-height: none; max-width: none; text-align: center; line-height: 22px; letter-spacing: 0px; font-weight: 400; font-size: 20px; transform-origin: 50% 50%; opacity: 1; transform: translate(0px, 0px); visibility: visible;" class="rs-layer" data-idcheck="true" data-stylerecorder="true" data-initialised="true"><a itemprop="url" href="https://www.soccer-solutions.co.uk/register-your-team/" target="_self" data-hover-background-color="#ffffff" data-hover-border-color="#ffffff" data-hover-color="#000000" class="qbutton  default" style="color: #ffffff; border-color: #ffffff; margin: 11px 8px 11px 8px; background-color: transparent;">Register Interest</a> 
+							</rs-layer></rs-mask-wrap></rs-loop-wrap></rs-layer-wrap><!--
+-->						</rs-slide>
+					</rs-slides></rs-module>
+				
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[990,677,700,578],gw:[1200,1100,600,325],gh:[990,677,700,578],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi1,
+						tpj;
+					function revinit_revslider11() {
+					jQuery(function() {
+						tpj = jQuery;
+						revapi1 = tpj("#rev_slider_1_1");
+						if(revapi1==undefined || revapi1.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_1_1");
+						}else{
+							revapi1.revolution({
+								sliderLayout:"fullwidth",
+								duration:3500,
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:"1200,1100,600,325",
+								gridheight:"990,677,700,578",
+								perspective:600,
+								perspectiveType:"local",
+								editorheight:"990,677,700,578",
+								responsiveLevels:"1240,1024,778,480",
+								overlay: {
+									type: 1,
+
+								},
+								progressBar:{disableProgressBar:true},
+								navigation: {
+									onHoverStop:false
+								},
+								parallax: {
+									levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+									type:"mouse"
+								},
+								viewPort: {
+									enable:true,
+									visible_area:"2%"
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+					} // End of RevInitScript
+				var once_revslider11 = false;
+				if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider11 ) { once_revslider11 = true; revinit_revslider11();}});} else {once_revslider11 = true; revinit_revslider11();}
+				</script>
+			</rs-module-wrap><rs-fw-forcer style="height:990px"></rs-fw-forcer></rs-fullwidth-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid  vc_custom_1520500993356" style=" text-align:center;"><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1520590756415"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-animation="no" data-item-class="q_elements_holder_custom_313231"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_313231" style="padding:0 0 0 0"></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid vc_inner  grid_section" style=" text-align:center;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner vc_custom_1520590814277"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-animation="no" data-item-class="q_elements_holder_custom_994127" style="background-color:#ffffff;"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_994127" style="padding:20px">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="800" height="560" src="./bg_files/Purbeck-Soccer-Leagues.jpg" class="vc_single_image-img attachment-large" alt="" srcset="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Soccer-Leagues.jpg 800w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Soccer-Leagues-300x210.jpg 300w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Soccer-Leagues-150x105.jpg 150w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Soccer-Leagues-768x538.jpg 768w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Soccer-Leagues-700x490.jpg 700w" sizes="(max-width: 800px) 100vw, 800px"></div>
+		</div>
+	</div>
+	<div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Purbeck Leagues</h3>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 19px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Our competitions run at Purbeck Sports Centre, in the heart of Dorset on their superb Astro turf surface.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 28px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div></div><a itemprop="url" href="https://www.soccer-solutions.co.uk/league-information/" target="_self" data-hover-background-color="#083368" data-hover-border-color="#083368" data-hover-color="#ffffff" class="qbutton  big_large_full_width default" style="color: rgb(255, 255, 255); border-color: rgb(2, 40, 88); background-color: rgb(2, 40, 88);">1 » LEARN ABOUT THE LEAGUE</a>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner vc_custom_1520590809853"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-animation="no" data-item-class="q_elements_holder_custom_545559" style="background-color:#ffffff;"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_545559" style="padding:20px">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="800" height="560" src="./bg_files/Wareham-Soccer-Leagues.jpg" class="vc_single_image-img attachment-large" alt="" srcset="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Wareham-Soccer-Leagues.jpg 800w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Wareham-Soccer-Leagues-300x210.jpg 300w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Wareham-Soccer-Leagues-150x105.jpg 150w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Wareham-Soccer-Leagues-768x538.jpg 768w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Wareham-Soccer-Leagues-700x490.jpg 700w" sizes="(max-width: 800px) 100vw, 800px"></div>
+		</div>
+	</div>
+	<div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>Tuesday Nights</h3>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 19px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Kick-off times vary between 6.30pm and 8.25pm each week and leagues run for approximately ten weeks.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 28px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div></div><a itemprop="url" href="https://www.soccer-solutions.co.uk/contact-us/" target="_self" data-hover-background-color="#083368" data-hover-border-color="#083368" data-hover-color="#ffffff" class="qbutton  big_large_full_width default" style="color: #ffffff; border-color: #022858; background-color: #022858;">2 » ASK ANY QUESTIONS</a>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner vc_custom_1520590803613"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-animation="no" data-item-class="q_elements_holder_custom_485847" style="background-color:#ffffff;"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_485847" style="padding:20px">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="800" height="560" src="./bg_files/Dorset-Soccer-Leagues.jpg" class="vc_single_image-img attachment-large" alt="" srcset="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Dorset-Soccer-Leagues.jpg 800w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Dorset-Soccer-Leagues-300x210.jpg 300w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Dorset-Soccer-Leagues-150x105.jpg 150w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Dorset-Soccer-Leagues-768x538.jpg 768w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Dorset-Soccer-Leagues-700x490.jpg 700w" sizes="(max-width: 800px) 100vw, 800px"></div>
+		</div>
+	</div>
+	<div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h3>League &amp; Cup</h3>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 19px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>We run two 6-a-side leagues which last approx ten weeks, with promotion &amp; relegation at the end, plus cup competitions.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 28px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div></div><a itemprop="url" href="https://www.soccer-solutions.co.uk/register-your-team/" target="_self" data-hover-background-color="#083368" data-hover-border-color="#083368" data-hover-color="#ffffff" class="qbutton  big_large_full_width default" style="color: #ffffff; border-color: #022858; background-color: #022858;">3 » REGISTER YOUR TEAM</a>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid vc_inner  grid_section" style=" padding-top:95px; padding-bottom:142px; text-align:left;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-768-1024="0px 21px 0 0" data-600-768="0 0 0 0" data-480-600="0 0 0 0" data-480="0 0 0 0" data-animation="no" data-item-class="q_elements_holder_custom_799841"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_799841" style="padding:0px 51px 0 0">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		<div class="wpb_wrapper">
+			
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="800" height="818" src="./bg_files/Purbeck-Sports-Centre-Astro.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Sports-Centre-Astro.jpg 800w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Sports-Centre-Astro-293x300.jpg 293w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Sports-Centre-Astro-147x150.jpg 147w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Sports-Centre-Astro-768x785.jpg 768w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Purbeck-Sports-Centre-Astro-700x716.jpg 700w" sizes="(max-width: 800px) 100vw, 800px"></div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_elements_holder one_column responsive_mode_from_768"><div class="q_elements_item " data-1024-1280="35px 81px 0 0" data-768-1024="18px 0 0 0" data-600-768="0 0 0 0" data-480-600="0 0 0 0" data-480="0 0 0 0" data-animation="no" data-item-class="q_elements_holder_custom_817196"><div class="q_elements_item_inner"><div class="q_elements_item_content q_elements_holder_custom_817196" style="padding:45px 81px 0 0">	<div class="vc_empty_space" style="height: 7px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Why Choose Us?</h2>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 21px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Do you want to play organised small sided league games, on floodlit artificial turf surfaces or Summer Sevens on grass? Do you live near Bournemouth, Poole or Wareham? We have the<strong> Soccer Solution</strong>.</p>
+
+		</div> 
+	</div> 	<div class="vc_empty_space" style="height: 49px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+<div class="q_icon_with_title tiny custom_icon_image left_from_title "><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><div class="icon_title_holder"><div class="icon_holder " style=" "><img decoding="async" itemprop="image" style="" src="./bg_files/Red-Icon.png" alt=""></div><h5 class="icon_title" style="">Award Winning Venue</h5></div><p style=""></p></div></div></div><div class="q_icon_with_title tiny custom_icon_image left_from_title "><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><div class="icon_title_holder"><div class="icon_holder " style=" "><img decoding="async" itemprop="image" style="" src="./bg_files/Red-Icon.png" alt=""></div><h5 class="icon_title" style="">FA Qualified Referees</h5></div><p style=""></p></div></div></div><div class="q_icon_with_title tiny custom_icon_image left_from_title "><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><div class="icon_title_holder"><div class="icon_holder " style=" "><img decoding="async" itemprop="image" style="" src="./bg_files/Red-Icon.png" alt=""></div><h5 class="icon_title" style="">Dorset FA Affiliation</h5></div><p style=""></p></div></div></div><div class="q_icon_with_title tiny custom_icon_image left_from_title "><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><div class="icon_title_holder"><div class="icon_holder " style=" "><img decoding="async" itemprop="image" style="" src="./bg_files/Red-Icon.png" alt=""></div><h5 class="icon_title" style="">Over 20 Years Experience</h5></div><p style=""></p></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid  vc_custom_1520504223686 grid_section" style=" padding-top:116px; padding-bottom:76px; text-align:left;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_icon_with_title large normal_icon center "><div class="icon_holder " style=" "><span data-icon-type="normal" style="" class="qode_iwt_icon_holder q_font_awsome_icon fa-4x  "><i class="qode_icon_font_awesome fa fa-futbol-o qode_iwt_icon_element" style=""></i></span></div><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><h5 class="icon_title" style="">Quality Balls &amp; Bibs</h5><p style="">We provide top grade balls &amp; bibs, so you don't have to worry kit clashes</p></div></div></div>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_icon_with_title large normal_icon center "><div class="icon_holder " style=" "><span data-icon-type="normal" style="" class="qode_iwt_icon_holder q_font_awsome_icon fa-4x  "><i class="qode_icon_font_awesome fa fa-money qode_iwt_icon_element" style=""></i></span></div><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><h5 class="icon_title" style="">Great Value</h5><p style="">We strive to remain the best value 6-a-side football provider in Dorset.</p></div></div></div>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_icon_with_title large normal_icon center "><div class="icon_holder " style=" "><span data-icon-type="normal" style="" class="qode_iwt_icon_holder q_font_awsome_icon fa-4x  "><i class="qode_icon_font_awesome fa fa-beer qode_iwt_icon_element" style=""></i></span></div><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><h5 class="icon_title" style="">Sports Bar</h5><p style="">Access to the Purbeck Sports Centre bar with giant screen Sky Sports TV.</p></div></div></div>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-3 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="q_icon_with_title large normal_icon center "><div class="icon_holder " style=" "><span data-icon-type="normal" style="" class="qode_iwt_icon_holder q_font_awsome_icon fa-4x  "><i class="qode_icon_font_awesome fa fa-user qode_iwt_icon_element" style=""></i></span></div><div class="icon_text_holder" style=""><div class="icon_text_inner" style=""><h5 class="icon_title" style="">On-Site Changing</h5><p style="">Full use of individual team changing facilities and showers inside the centre.</p></div></div></div>	<div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner">
+			<span class="empty_space_image"></span>
+		</span></div>
+
+</div></div></div></div></div></div><div class="vc_row wpb_row section vc_row-fluid  vc_custom_1520519566603 grid_section" style=" padding-top:40px; padding-bottom:40px; text-align:center;"><div class=" section_inner clearfix"><div class="section_inner_margin clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><a itemprop="url" href="https://www.soccer-solutions.co.uk/about-us/" target="_self" data-hover-background-color="#f7f7f7" data-hover-border-color="#f7f7f7" data-hover-color="#000000" class="qbutton  default" style="color: #000000; border-color: #ffffff; margin: 11px 8px 11px 8px; background-color: #ffffff;">ABOUT SOCCER SOLUTIONS</a></div></div></div></div></div></div>
+										 
+												</div>
+	</div>
+				
+	</div>
+</div>
+
+
+
+	<footer>
+		<div class="footer_inner clearfix">
+				<div class="footer_top_holder">
+            			<div class="footer_top">
+								<div class="container">
+					<div class="container_inner">
+																	<div class="three_columns clearfix">
+								<div class="column1 footer_col1">
+									<div class="column_inner">
+										<div id="media_image-2" class="widget widget_media_image"><a href="https://www.soccer-solutions.co.uk/"><img width="350" height="48" src="./bg_files/Soccer-Solutions-Logo-Small.png" class="image wp-image-1806  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small.png 350w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small-300x41.png 300w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small-150x21.png 150w, https://www.soccer-solutions.co.uk/wp-content/uploads/2023/07/Soccer-Solutions-Logo-Small-345x48.png 345w" sizes="(max-width: 350px) 100vw, 350px"></a></div><div id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="separator  transparent   " style="margin-top: 13px;"></div>
+</div></div><div id="text-2" class="widget widget_text">			<div class="textwidget"><p>Soccer Solutions run Astro Leagues at Purbeck Sports Centre (Wareham). Call Bob for more details on <a href="tel:07970983318">07970 983318</a>.</p>
+</div>
+		</div><div id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="separator  transparent   " style="margin-top: 26px;"></div>
+
+
+<span class="q_social_icon_holder circle_social" data-color="#c5181e" data-hover-background-color="#c5181e" data-hover-border-color="#c5181e" data-hover-color="#0a0a0a"><a itemprop="url" href="https://www.facebook.com/SoccerSolutions/" target="_blank" rel="noopener"><span class="fa-stack " style="background-color: rgba(0, 10, 0, 1);border-color: #ffffff;border-width: 3px;margin: 0 7px 0 0;font-size: 18px;"><i class="qode_icon_font_awesome fa fa-facebook " style="color: #c5181e;font-size: 16px;"></i></span></a></span><span class="q_social_icon_holder circle_social" data-color="#c5181e" data-hover-background-color="#c5181e" data-hover-border-color="#c5181e" data-hover-color="#0a0a0a"><a itemprop="url" href="https://www.linkedin.com/in/bob-kitley-3b98a517/" target="_blank" rel="noopener"><span class="fa-stack " style="background-color: rgba(0, 10, 0, 1);border-color: #ffffff;border-width: 3px;margin: 0 7px 0 0;font-size: 18px;"><i class="qode_icon_font_awesome fa fa-linkedin " style="color: #c5181e;font-size: 16px;"></i></span></a></span></div></div>									</div>
+								</div>
+								<div class="column2 footer_col2">
+									<div class="column_inner">
+										<div id="nav_menu-2" class="widget widget_nav_menu"><h5>Quick Links</h5><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-2201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2201"><a href="https://www.soccer-solutions.co.uk/about-us/">About Us</a></li>
+<li id="menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2202"><a href="https://www.soccer-solutions.co.uk/league-information/">League Information</a></li>
+<li id="menu-item-2203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2203"><a href="https://www.soccer-solutions.co.uk/our-leagues/">Latest Results &amp; Fixtures</a></li>
+<li id="menu-item-2204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2204"><a href="https://www.soccer-solutions.co.uk/register-your-team/">Register Your Interest</a></li>
+<li id="menu-item-2207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2207"><a target="_blank" rel="noopener" href="https://archive.soccer-solutions.co.uk/">Archived Website</a></li>
+</ul></div></div>									</div>
+								</div>
+								<div class="column3 footer_col3">
+									<div class="column_inner">
+										<div id="easy_facebook_like_box-2" class="widget widget_easy_facebook_like_box"><div class="widget-text easy-facebook-like-box_box"><h5>LIKE US ON FACEBOOK</h5><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+          <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, "script", "facebook-jssdk"));</script><div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/SoccerSolutions/" data-width="" data-height="250" data-hide-cover="false" data-tabs="" data-small-header="false" data-hide-cta="false" data-adapt-container-width="true" data-show-facepile="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=&amp;container_width=375&amp;height=250&amp;hide_cover=false&amp;hide_cta=false&amp;href=https%3A%2F%2Fwww.facebook.com%2FSoccerSolutions%2F&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=false&amp;small_header=false&amp;tabs=&amp;width="><span style="vertical-align: bottom; width: 340px; height: 130px;"><iframe name="f855082151f6dcb1c" width="1000px" height="250px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./bg_files/page.html" style="border: none; visibility: visible; width: 340px; height: 130px;" class=""></iframe></span></div></div></div>									</div>
+								</div>
+							</div>
+															</div>
+				</div>
+							</div>
+					</div>
+							<div class="footer_bottom_holder">
+                									<div class="footer_bottom">
+							<div class="textwidget"><p>© Copyright <a href="https://www.soccer-solutions.co.uk/" target="_self" rel="nofollow noopener">Soccer Solutions</a></p>
+</div>
+					</div>
+								</div>
+				</div>
+	</footer>
+		
+</div>
+</div>
+<script type="text/html" id="wpb-modifications"></script><link href="./bg_files/css(2)" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+			}
+		}
+		</script>
+<script type="text/javascript" src="./bg_files/hooks.min.js.download" id="wp-hooks-js"></script>
+<script type="text/javascript" src="./bg_files/i18n.min.js.download" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/index.js.download" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.soccer-solutions.co.uk\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/index(1).js.download" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./bg_files/core.min.js.download" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="./bg_files/tabs.min.js.download" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.qtip.min.js.download" id="jquery-qtip2-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.ba-bbq.min.js.download" id="jquery-ba-bqq-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.carouFredSel-6.2.1-packed.js.download" id="jquery-carouFredSel-js"></script>
+<script type="text/javascript" id="timetable_main-js-extra">
+/* <![CDATA[ */
+var tt_config = [];
+tt_config = {"ajaxurl":"https:\/\/www.soccer-solutions.co.uk\/wp-admin\/admin-ajax.php"};;
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/timetable.js.download" id="timetable_main-js"></script>
+<script type="text/javascript" src="./bg_files/underscore.min.js.download" id="underscore-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.countdown.min.js.download" id="anwpfl_countdown-js"></script>
+<script type="text/javascript" id="anwp-fl-public-js-extra">
+/* <![CDATA[ */
+var anwpfl_l10n = {"weeks":"weeks","days":"days","hours":"hours","minutes":"minutes","seconds":"seconds"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/anwp-fl-public.min.js.download" id="anwp-fl-public-js"></script>
+<script type="text/javascript" src="./bg_files/popper.min.js.download" id="popperjs-js"></script>
+<script type="text/javascript" src="./bg_files/tippy-bundle.umd.min.js.download" id="tippy-js"></script>
+<script type="text/javascript" src="./bg_files/accordion.min.js.download" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="./bg_files/menu.min.js.download" id="jquery-ui-menu-js"></script>
+<script type="text/javascript" src="./bg_files/dom-ready.min.js.download" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="./bg_files/a11y.min.js.download" id="wp-a11y-js"></script>
+<script type="text/javascript" src="./bg_files/autocomplete.min.js.download" id="jquery-ui-autocomplete-js"></script>
+<script type="text/javascript" src="./bg_files/controlgroup.min.js.download" id="jquery-ui-controlgroup-js"></script>
+<script type="text/javascript" src="./bg_files/checkboxradio.min.js.download" id="jquery-ui-checkboxradio-js"></script>
+<script type="text/javascript" src="./bg_files/button.min.js.download" id="jquery-ui-button-js"></script>
+<script type="text/javascript" src="./bg_files/datepicker.min.js.download" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"D dS M yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/mouse.min.js.download" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="./bg_files/resizable.min.js.download" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="./bg_files/draggable.min.js.download" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="./bg_files/dialog.min.js.download" id="jquery-ui-dialog-js"></script>
+<script type="text/javascript" src="./bg_files/droppable.min.js.download" id="jquery-ui-droppable-js"></script>
+<script type="text/javascript" src="./bg_files/progressbar.min.js.download" id="jquery-ui-progressbar-js"></script>
+<script type="text/javascript" src="./bg_files/selectable.min.js.download" id="jquery-ui-selectable-js"></script>
+<script type="text/javascript" src="./bg_files/sortable.min.js.download" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="./bg_files/slider.min.js.download" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="./bg_files/spinner.min.js.download" id="jquery-ui-spinner-js"></script>
+<script type="text/javascript" src="./bg_files/tooltip.min.js.download" id="jquery-ui-tooltip-js"></script>
+<script type="text/javascript" src="./bg_files/effect.min.js.download" id="jquery-effects-core-js"></script>
+<script type="text/javascript" src="./bg_files/effect-blind.min.js.download" id="jquery-effects-blind-js"></script>
+<script type="text/javascript" src="./bg_files/effect-bounce.min.js.download" id="jquery-effects-bounce-js"></script>
+<script type="text/javascript" src="./bg_files/effect-clip.min.js.download" id="jquery-effects-clip-js"></script>
+<script type="text/javascript" src="./bg_files/effect-drop.min.js.download" id="jquery-effects-drop-js"></script>
+<script type="text/javascript" src="./bg_files/effect-explode.min.js.download" id="jquery-effects-explode-js"></script>
+<script type="text/javascript" src="./bg_files/effect-fade.min.js.download" id="jquery-effects-fade-js"></script>
+<script type="text/javascript" src="./bg_files/effect-fold.min.js.download" id="jquery-effects-fold-js"></script>
+<script type="text/javascript" src="./bg_files/effect-highlight.min.js.download" id="jquery-effects-highlight-js"></script>
+<script type="text/javascript" src="./bg_files/effect-pulsate.min.js.download" id="jquery-effects-pulsate-js"></script>
+<script type="text/javascript" src="./bg_files/effect-size.min.js.download" id="jquery-effects-size-js"></script>
+<script type="text/javascript" src="./bg_files/effect-scale.min.js.download" id="jquery-effects-scale-js"></script>
+<script type="text/javascript" src="./bg_files/effect-shake.min.js.download" id="jquery-effects-shake-js"></script>
+<script type="text/javascript" src="./bg_files/effect-slide.min.js.download" id="jquery-effects-slide-js"></script>
+<script type="text/javascript" src="./bg_files/effect-transfer.min.js.download" id="jquery-effects-transfer-js"></script>
+<script type="text/javascript" src="./bg_files/doubletaptogo.js.download" id="doubleTapToGo-js"></script>
+<script type="text/javascript" src="./bg_files/modernizr.min.js.download" id="modernizr-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.appear.js.download" id="appear-js"></script>
+<script type="text/javascript" src="./bg_files/hoverIntent.min.js.download" id="hoverIntent-js"></script>
+<script type="text/javascript" src="./bg_files/counter.js.download" id="counter-js"></script>
+<script type="text/javascript" src="./bg_files/easypiechart.js.download" id="easyPieChart-js"></script>
+<script type="text/javascript" src="./bg_files/mixitup.js.download" id="mixItUp-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.prettyPhoto.js.download" id="prettyphoto-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.fitvids.js.download" id="fitvids-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.flexslider-min.js.download" id="flexslider-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/mediaelement-and-player.min.js.download" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="./bg_files/mediaelement-migrate.min.js.download" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/wp-mediaelement.min.js.download" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="./bg_files/infinitescroll.min.js.download" id="infiniteScroll-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.waitforimages.js.download" id="waitforimages-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.form.min.js.download" id="jquery-form-js"></script>
+<script type="text/javascript" src="./bg_files/waypoints.min.js.download" id="waypoints-js"></script>
+<script type="text/javascript" src="./bg_files/jplayer.min.js.download" id="jplayer-js"></script>
+<script type="text/javascript" src="./bg_files/bootstrap.carousel.js.download" id="bootstrapCarousel-js"></script>
+<script type="text/javascript" src="./bg_files/skrollr.js.download" id="skrollr-js"></script>
+<script type="text/javascript" src="./bg_files/Chart.min.js.download" id="charts-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.easing.1.3.js.download" id="easing-js"></script>
+<script type="text/javascript" src="./bg_files/abstractBaseClass.js.download" id="abstractBaseClass-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.countdown.js.download" id="countdown-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.multiscroll.min.js.download" id="multiscroll-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.justifiedGallery.min.js.download" id="justifiedGallery-js"></script>
+<script type="text/javascript" src="./bg_files/bigtext.js.download" id="bigtext-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.sticky-kit.min.js.download" id="stickyKit-js"></script>
+<script type="text/javascript" src="./bg_files/owl.carousel.min.js.download" id="owlCarousel-js"></script>
+<script type="text/javascript" src="./bg_files/typed.js.download" id="typed-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.carouFredSel-6.2.1.min.js.download" id="carouFredSel-js"></script>
+<script type="text/javascript" src="./bg_files/lemmon-slider.min.js.download" id="lemmonSlider-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.fullPage.min.js.download" id="one_page_scroll-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.mousewheel.min.js.download" id="mousewheel-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.touchSwipe.min.js.download" id="touchSwipe-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.isotope.min.js.download" id="isotope-js"></script>
+<script type="text/javascript" src="./bg_files/packery-mode.pkgd.min.js.download" id="packery-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.stretch.js.download" id="stretch-js"></script>
+<script type="text/javascript" src="./bg_files/imagesloaded.js.download" id="imagesLoaded-js"></script>
+<script type="text/javascript" src="./bg_files/rangeslider.min.js.download" id="rangeSlider-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.event.move.js.download" id="eventMove-js"></script>
+<script type="text/javascript" src="./bg_files/jquery.twentytwenty.js.download" id="twentytwenty-js"></script>
+<script type="text/javascript" src="./bg_files/swiper.min.js.download" id="swiper-js"></script>
+<script type="text/javascript" src="./bg_files/TweenLite.min.js.download" id="TweenLite-js"></script>
+<script type="text/javascript" src="./bg_files/smoothPageScroll.min.js.download" id="smoothPageScroll-js"></script>
+<script type="text/javascript" src="./bg_files/js" id="google_map_api-js"></script>
+<script type="text/javascript" src="./bg_files/default_dynamic.js.download" id="bridge-default-dynamic-js"></script>
+<script type="text/javascript" id="bridge-default-js-extra">
+/* <![CDATA[ */
+var QodeAdminAjax = {"ajaxurl":"https:\/\/www.soccer-solutions.co.uk\/wp-admin\/admin-ajax.php"};
+var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/default.min.js.download" id="bridge-default-js"></script>
+<script type="text/javascript" src="./bg_files/comment-reply.min.js.download" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="./bg_files/js_composer_front.min.js.download" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" id="qode-like-js-extra">
+/* <![CDATA[ */
+var qodeLike = {"ajaxurl":"https:\/\/www.soccer-solutions.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/qode-like.min.js.download" id="qode-like-js"></script>
+<script type="text/javascript" src="./bg_files/api.js.download" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="./bg_files/wp-polyfill.min.js.download" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcJhDUqAAAAAJXzazxJ-vXZ1UNeNpfnq37tXz6r","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./bg_files/index(2).js.download" id="wpcf7-recaptcha-js"></script>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;left: -100%;" height="0" width="0"><defs><clippath id="a"><path d="M0 0h20v20H0z"></path></clippath><clippath id="a"><path d="M0 0h20v20H0z"></path></clippath><clippath id="a"><path d="M0 0h20v20H0z"></path></clippath><clippath id="a"><path d="M0 0h20v20H0z"></path></clippath><clippath id="a"><path d="M0 0h20v20H0z"></path></clippath><clippath id="clip0"><path fill="#fff" transform="rotate(90 8.5 8.5)" d="M0 0h20v17H0z"></path></clippath><clippath id="clip0"><path fill="#fff" transform="rotate(90 8.5 8.5)" d="M0 0h20v17H0z"></path></clippath><clippath id="clip0"><path fill="#fff" transform="rotate(90 8.5 8.5)" d="M0 0h20v17H0z"></path></clippath><clippath id="clip0_123_2"><path fill="#fff" d="M0 0h50v30H0z"></path></clippath><clippath id="clip1_123_2"><path fill="#fff" transform="translate(12 2)" d="M0 0h26v26H0z"></path></clippath></defs><symbol id="icon-arrow-bottom" viewBox="0 0 32 32"><path d="M6 22l10 8 10-8m-10 8V2"></path></symbol><symbol id="icon-arrow-left" viewBox="0 0 32 32"><path d="M10 6L2 16l8 10M2 16h28"></path></symbol><symbol id="icon-arrow-o-down" viewBox="0 0 10 16"><path d="M7 7V3H3v4H0l5 6 5-6z" fill-rule="evenodd"></path></symbol><symbol id="icon-arrow-o-up" viewBox="0 0 10 16"><path d="M5 3L0 9h3v4h4V9h3z" fill-rule="evenodd"></path></symbol><symbol id="icon-arrow-right" viewBox="0 0 32 32"><path d="M22 6l8 10-8 10m8-10H2"></path></symbol><symbol id="icon-arrow-top" viewBox="0 0 32 32"><path d="M6 10l10-8 10 8M16 2v28"></path></symbol><symbol id="icon-ball" viewBox="0 0 20 20"><path d="M0 9.984c0 5.519 4.481 10 10 10s10-4.481 10-10c0-5.52-4.481-10-10-10s-10 4.48-10 10zm7.53-.219l-2.318 2.106 1.045 3.951 3.165 1.097 3.102-2.884-1.189-2.935L7.53 9.765zM3.199 4.091a8.987 8.987 0 016.184-3.087l.145.771-3.421 3.601-2.167.122-.741-1.407zm4.466 4.661L6.95 5.939l3.189-3.355c.69.059 1.515.275 2.353.646.381.169.737.357 1.06.557l.336 4.472-2.181 1.911-4.042-1.418zM2.529 4.966A8.949 8.949 0 001.001 9.86l1.128-.335.883-3.643-.483-.916zM1.045 10.89a8.99 8.99 0 003.473 6.229l.768-1.06-1.081-4.083-1.694-1.521-1.466.435zm9.161 8.091a8.975 8.975 0 006.404-2.893l-.845-1.485-2.387.004-3.34 3.104.168 1.27zm8.701-10.296a8.985 8.985 0 00-2.935-5.432l-1.407.668.315 4.195 2.135 1.662 1.892-1.093zm.091 1.103l.002.196a8.96 8.96 0 01-1.71 5.276l-.712-1.25.997-3.401 1.423-.821z" fill-rule="evenodd"></path></symbol><symbol id="icon-ball_canceled" viewBox="0 0 20 20"><g clip-path="url(#a)"><path d="M0 9.984c0 5.519 4.481 10 10 10s10-4.481 10-10c0-5.52-4.481-10-10-10s-10 4.48-10 10zm7.53-.219l-2.318 2.106 1.045 3.951 3.165 1.097 3.102-2.884-1.189-2.935L7.53 9.765zM3.199 4.091a8.987 8.987 0 016.184-3.087l.145.771-3.421 3.601-2.167.122-.741-1.407zm4.466 4.661L6.95 5.939l3.189-3.355c.69.059 1.514.275 2.353.646.381.169.737.357 1.06.557l.336 4.472-2.181 1.911-4.042-1.418zM2.529 4.966A8.949 8.949 0 001.001 9.86l1.128-.335.883-3.643-.483-.916zM1.045 10.89a8.99 8.99 0 003.473 6.229l.768-1.06-1.081-4.083-1.694-1.521-1.466.435zm9.161 8.091a8.975 8.975 0 006.404-2.893l-.845-1.485-2.387.004-3.34 3.104.168 1.27zm8.701-10.296a8.985 8.985 0 00-2.935-5.432l-1.407.668.315 4.195 2.135 1.662 1.892-1.093zm.091 1.103l.002.196a8.96 8.96 0 01-1.71 5.276l-.712-1.25.997-3.401 1.423-.821z" fill-rule="evenodd" fill="#6C6C6C"></path><path d="M17.365 1.963l1.259 1.259c.13.13.13.341 0 .471L2.88 19.437a.333.333 0 01-.471 0L1.15 18.178a.332.332 0 010-.47L16.894 1.963c.13-.13.341-.13.471 0z" fill="#c83131"></path><path d="M18.625 18.175l-1.264 1.263a.329.329 0 01-.466 0L1.473 4.016a.329.329 0 010-.466l1.263-1.264a.329.329 0 01.466 0l15.423 15.423a.329.329 0 010 .466z" fill="#c83131"></path></g></symbol><symbol id="icon-ball_dual" viewBox="0 0 20 20"><circle cx="10" cy="10" r="10" fill="#CCC"></circle><circle cx="10" cy="10" r="9" fill="#000"></circle><path fill-rule="evenodd" clip-rule="evenodd" d="M7.53 9.765l-2.318 2.106 1.045 3.951 3.165 1.097 3.102-2.884-1.189-2.935L7.53 9.765zM3.199 4.091a8.987 8.987 0 016.184-3.087l.145.771-3.421 3.601-2.167.122-.741-1.407zm4.466 4.661L6.95 5.939l3.189-3.355c.69.059 1.515.275 2.353.646.381.169.737.357 1.06.557l.336 4.472-2.181 1.911-4.042-1.418zM2.5 5a8.81 8.81 0 00-1.499 4.86l1.128-.335.883-3.643L2.5 5zm-1.455 5.89a8.99 8.99 0 003.473 6.229l.768-1.06-1.081-4.083-1.694-1.521-1.466.435zm9.161 8.091a8.975 8.975 0 006.404-2.893l-.845-1.485-2.387.004-3.34 3.104.168 1.27zm8.701-10.296a8.986 8.986 0 00-2.935-5.432l-1.407.668.315 4.195 2.135 1.662 1.892-1.093zm.091 1.103l.002.196a8.96 8.96 0 01-1.71 5.276l-.712-1.25.997-3.401 1.423-.821z" fill="#fff"></path></symbol><symbol id="icon-ball_dual2" viewBox="0 0 20 20"><circle cx="10" cy="10" r="10" fill="#fff"></circle><path fill-rule="evenodd" clip-rule="evenodd" d="M1 10c0 4.967 4.033 9 9 9s9-4.033 9-9c0-4.968-4.033-9-9-9s-9 4.032-9 9zm6.777-.197l-2.086 1.895.94 3.556 2.849.987 2.792-2.595-1.07-2.642-3.425-1.201zM3.879 4.696a8.088 8.088 0 015.566-2.778l.13.694-3.079 3.24-1.95.11-.667-1.266zM7.9 8.891L7.255 6.36l2.87-3.019c.621.053 1.364.248 2.118.581.343.153.663.322.954.502l.302 4.024-1.963 1.72L7.9 8.891zM3.276 5.484a8.054 8.054 0 00-1.375 4.404l1.015-.301.795-3.279-.435-.824zm-1.335 5.331a8.092 8.092 0 003.125 5.607l.691-.955-.972-3.674-1.525-1.37-1.32.392zm8.244 7.282a8.078 8.078 0 005.764-2.603l-.76-1.337-2.149.004-3.006 2.793.151 1.143zm7.831-9.266a8.087 8.087 0 00-2.641-4.889l-1.267.601.284 3.776 1.922 1.496 1.702-.984zm.082.993L18.1 10a8.064 8.064 0 01-1.539 4.748l-.64-1.125.896-3.06 1.281-.74z" fill="#000"></path></symbol><symbol id="icon-ball_penalty" viewBox="0 0 20 20"><g clip-path="url(#a)"><path d="M0 9.984c0 5.519 4.481 10 10 10s10-4.481 10-10c0-5.52-4.481-10-10-10s-10 4.48-10 10zm7.53-.219l-2.318 2.106 1.045 3.951 3.165 1.097 3.102-2.884-1.189-2.935L7.53 9.765zM3.199 4.091a8.987 8.987 0 016.184-3.087l.145.771-3.421 3.601-2.167.122-.741-1.407zm4.466 4.661L6.95 5.939l3.189-3.355c.69.059 1.514.275 2.353.646.381.169.737.357 1.06.557l.336 4.472-2.181 1.911-4.042-1.418zM2.529 4.966A8.949 8.949 0 001.001 9.86l1.128-.335.883-3.643-.483-.916zM1.045 10.89a8.99 8.99 0 003.473 6.229l.768-1.06-1.081-4.083-1.694-1.521-1.466.435zm9.161 8.091a8.975 8.975 0 006.404-2.893l-.845-1.485-2.387.004-3.34 3.104.168 1.27zm8.701-10.296a8.985 8.985 0 00-2.935-5.432l-1.407.668.315 4.195 2.135 1.662 1.892-1.093zm.091 1.103l.002.196a8.96 8.96 0 01-1.71 5.276l-.712-1.25.997-3.401 1.423-.821z" fill-rule="evenodd"></path><path fill="#FFF" d="M0 10.391h8.922v3.707H0z"></path><path fill="#FFF" d="M.363 11.919h10.701v8.064H.363z"></path><text transform="translate(.754 21.726)" font-family="Franklin Gothic Heavy" font-weight="400" font-size="14" fill="#009688" stroke="#fff" stroke-width=".5">P</text></g></symbol><symbol id="icon-calendar" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M13 2h-1v1.5c0 .28-.22.5-.5.5h-2c-.28 0-.5-.22-.5-.5V2H6v1.5c0 .28-.22.5-.5.5h-2c-.28 0-.5-.22-.5-.5V2H2c-.55 0-1 .45-1 1v11c0 .55.45 1 1 1h11c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 12H2V5h11v9zM5 3H4V1h1v2zm6 0h-1V1h1v2zM6 7H5V6h1v1zm2 0H7V6h1v1zm2 0H9V6h1v1zm2 0h-1V6h1v1zM4 9H3V8h1v1zm2 0H5V8h1v1zm2 0H7V8h1v1zm2 0H9V8h1v1zm2 0h-1V8h1v1zm-8 2H3v-1h1v1zm2 0H5v-1h1v1zm2 0H7v-1h1v1zm2 0H9v-1h1v1zm2 0h-1v-1h1v1zm-8 2H3v-1h1v1zm2 0H5v-1h1v1zm2 0H7v-1h1v1zm2 0H9v-1h1v1z"></path></symbol><symbol id="icon-captain" viewBox="0 0 15 20"><path fill="#4D4D4D" d="M0 0h15v20H0z"></path><path d="M6.065 13.581c.411.772.934 1.158 1.568 1.158.65 0 1.145-.33 1.486-.993.19-.357.345-.89.47-1.603h1.882c-.162 1.506-.578 2.73-1.244 3.675-.668.943-1.523 1.415-2.566 1.415-1.29 0-2.304-.637-3.042-1.913-.739-1.28-1.108-3.037-1.108-5.268 0-2.412.42-4.272 1.26-5.577.73-1.138 1.66-1.706 2.787-1.706 1.51 0 2.613.762 3.31 2.287.386.856.593 1.715.621 2.578H9.595c-.121-.663-.276-1.162-.464-1.5-.337-.6-.838-.9-1.5-.9-.676 0-1.208.424-1.598 1.27-.39.847-.584 2.046-.584 3.595 0 1.55.205 2.71.616 3.482z" fill="#fff"></path></symbol><symbol id="icon-card_r" viewBox="0 0 20 20"><g clip-path="url(#a)"><path fill="#F44336" d="M4 1.5h12v17H4z"></path></g></symbol><symbol id="icon-card_y" viewBox="0 0 20 20"><g clip-path="url(#a)"><path fill="#FFEB3B" d="M4 1.5h12v17H4z"></path></g></symbol><symbol id="icon-card_yr" viewBox="0 0 20 20"><g clip-path="url(#a)"><path fill="#FFEB3B" d="M1 3h12v17H1z"></path><path fill="#F44336" d="M7 0h12v17H7z"></path></g></symbol><symbol id="icon-chevron-down" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"></path></symbol><symbol id="icon-clock-alt" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></symbol><symbol id="icon-clock" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M8 8h3v2H7c-.55 0-1-.45-1-1V4h2v4zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z"></path></symbol><symbol id="icon-eye" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></symbol><symbol id="icon-facebook" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#1877f2"></rect><path d="M355.6 330l11.4-74h-71v-48c0-20.2 9.9-40 41.7-40H370v-63s-29.3-5-57.3-5c-58.5 0-96.7 35.4-96.7 99.6V256h-65v74h65v182h80V330h59.6z" fill="#fff"></path></symbol><symbol id="icon-field-shirt-in" viewBox="0 0 17 20"><g clip-path="url(#clip0)"><path fill="#fff" d="M17 0v20H0V0z"></path><path d="M17 0v20H0V0h17z" fill="#57A455"></path><path d="M12 18.5h.5v-3h-8v3H12zM12 4.5h.5v-3h-8v3H12z" stroke="#99C297"></path><path d="M15 18.5h.5v-17h-14v17H15z" stroke="#99C297"></path><path d="M9.106 11a.187.187 0 00-.094.03L7.1 12.228a.226.226 0 00-.073.295l.651 1.226c.055.104.177.139.272.08l1-.628v4.581c0 .12.089.217.2.217h3.691c.11 0 .2-.097.2-.217v-4.587l1.009.633c.095.06.216.025.272-.079l.651-1.226a.226.226 0 00-.073-.295l-1.912-1.2a.186.186 0 00-.123-.027.191.191 0 00-.024-.002h-1.058c-.015.136-.36.246-.783.246-.423 0-.768-.11-.783-.246H9.149a.2.2 0 00-.019.001.189.189 0 00-.024 0V11z" fill="#fff"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M9.8 6.9H15V4.1H9.8V2L2 5.5 9.8 9V6.9z" fill="#fff"></path></g></symbol><symbol id="icon-field-shirt" viewBox="0 0 17 20"><g clip-path="url(#clip0)"><path fill="#fff" d="M17 0v20H0V0z"></path><path d="M17 0v20H0V0h17z" fill="#57A455"></path><path d="M12 18.5h.5v-3h-8v3H12zM12 4.5h.5v-3h-8v3H12z" stroke="#99C297"></path><path d="M15 18.5h.5v-17h-14v17H15z" stroke="#99C297"></path><path d="M5.423 8a.312.312 0 00-.154.046L2.162 9.93a.348.348 0 00-.118.464l1.058 1.926c.09.164.287.219.442.125l1.624-.985v7.199c0 .188.145.34.324.34h6c.179 0 .323-.152.323-.34v-7.21l1.641.996a.314.314 0 00.442-.124l1.058-1.927a.348.348 0 00-.118-.464l-3.107-1.885a.31.31 0 00-.2-.043.31.31 0 00-.04-.003H9.774c-.025.214-.586.386-1.273.386-.687 0-1.248-.172-1.273-.386H5.492l-.03.002A.302.302 0 005.421 8z" fill="#fff"></path></g></symbol><symbol id="icon-field" viewBox="0 0 17 20"><g clip-path="url(#clip0)"><path fill="#fff" d="M17 0v20H0V0z"></path><path d="M17 0v20H0V0h17z" fill="#57A455"></path><path d="M12 18.5h.5v-3h-8v3H12zM12 4.5h.5v-3h-8v3H12z" stroke="#99C297"></path><path d="M15 18.5h.5v-17h-14v17H15z" stroke="#99C297"></path></g></symbol><symbol id="icon-instagram" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#d43377"></rect><g fill="none" stroke="#fff" stroke-width="29"><rect height="296" rx="78" width="296" x="108" y="108"></rect><circle cx="256" cy="256" r="69"></circle></g><circle cx="343" cy="169" fill="#fff" r="19"></circle></symbol><symbol id="icon-linkedin" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#0077b5"></rect><circle cx="142" cy="138" r="37"></circle><path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198"></path><path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32"></path></symbol><symbol id="icon-location" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6 0C2.69 0 0 2.5 0 5.5 0 10.02 6 16 6 16s6-5.98 6-10.5C12 2.5 9.31 0 6 0zm0 14.55C4.14 12.52 1 8.44 1 5.5 1 3.02 3.25 1 6 1c1.34 0 2.61.48 3.56 1.36.92.86 1.44 1.97 1.44 3.14 0 2.94-3.14 7.02-5 9.05zM8 5.5c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></symbol><symbol id="icon-plus-circle" viewBox="0 0 24 24"><path d="M12.75 7.75a.75.75 0 00-1.5 0v3.5h-3.5a.75.75 0 000 1.5h3.5v3.5a.75.75 0 001.5 0v-3.5h3.5a.75.75 0 000-1.5h-3.5v-3.5z"></path><path fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z"></path></symbol><symbol id="icon-question" viewBox="0 0 24 24"><path d="M10.97 8.265a1.45 1.45 0 00-.487.57.75.75 0 01-1.341-.67c.2-.402.513-.826.997-1.148C10.627 6.69 11.244 6.5 12 6.5c.658 0 1.369.195 1.934.619a2.45 2.45 0 011.004 2.006c0 1.033-.513 1.72-1.027 2.215-.19.183-.399.358-.579.508l-.147.123a4.329 4.329 0 00-.435.409v1.37a.75.75 0 11-1.5 0v-1.473c0-.237.067-.504.247-.736.22-.28.486-.517.718-.714l.183-.153.001-.001c.172-.143.324-.27.47-.412.368-.355.569-.676.569-1.136a.953.953 0 00-.404-.806C12.766 8.118 12.384 8 12 8c-.494 0-.814.121-1.03.265zM13 17a1 1 0 11-2 0 1 1 0 012 0z"></path><path fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z"></path></symbol><symbol id="icon-stadium" viewBox="0 0 23 14"><path d="M1.725 0C.774 0 0 .725 0 1.615v10.77C0 13.275.774 14 1.725 14h19.55c.951 0 1.725-.725 1.725-1.615V1.615C23 .725 22.226 0 21.275 0H1.725zm9.2 9.638c-1.31-.25-2.3-1.338-2.3-2.638 0-1.3.99-2.388 2.3-2.638v5.276zm1.15-5.276c1.31.25 2.3 1.338 2.3 2.638 0 1.3-.99 2.388-2.3 2.638V4.362zM1.15 4.308h2.3v5.384h-2.3V4.308zm0 8.077v-1.616h2.875c.318 0 .575-.24.575-.538V3.769c0-.297-.257-.538-.575-.538H1.15V1.615c0-.297.258-.538.575-.538h9.2V3.27c-1.948.262-3.45 1.835-3.45 3.73s1.502 3.468 3.45 3.73v2.193h-9.2c-.317 0-.575-.242-.575-.538zm20.7-2.693h-2.3V4.308h2.3v5.384zm0-8.077v1.616h-2.875c-.318 0-.575.24-.575.538v6.462c0 .297.258.538.575.538h2.875v1.616c0 .296-.258.538-.575.538h-9.2V10.73c1.948-.262 3.45-1.835 3.45-3.73s-1.502-3.468-3.45-3.73V1.077h9.2c.317 0 .575.241.575.538z" fill="#B7B7B7"></path></symbol><symbol id="icon-substitute" viewBox="0 0 10 10"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.5 4V0h-2v4H0l2.5 6L5 4H3.5z" fill="#F44336"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M6.5 6v4h2V6H10L7.5 0 5 6h1.5z" fill="#439328"></path></symbol><symbol id="icon-tiktok" viewBox="0 0 512 512"><rect rx="15%" height="512" width="512" fill="#fff"></rect><path fill="#ff004f" d="M237 215a117 117 0 10100.6 115.4v-128a150 150 0 0088 28v-63a88 88 0 01-88-88H274V331a53.5 53.5 0 11-37-51z"></path><path d="M219 200a117 117 0 10100.6 115.4v-128a150 150 0 0088 28v-63a88 88 0 01-88-88H256V316a53.5 53.5 0 11-37-51z" fill="#00f2ea"></path></symbol><symbol id="icon-twitter" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#1da1f3"></rect><path fill="#fff" d="M437 152a72 72 0 01-40 12 72 72 0 0032-40 72 72 0 01-45 17 72 72 0 00-122 65 200 200 0 01-145-74 72 72 0 0022 94 72 72 0 01-32-7 72 72 0 0056 69 72 72 0 01-32 1 72 72 0 0067 50 200 200 0 01-105 29 200 200 0 00309-179 200 200 0 0035-37"></path></symbol><symbol id="icon-vk" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%" fill="#5281b8"></rect><path fill="#fff" d="M274 363c5-1 14-3 14-15 0 0-1-30 13-34s32 29 51 42c14 9 25 8 25 8l51-1s26-2 14-23c-1-2-9-15-39-42-31-30-26-25 11-76 23-31 33-50 30-57-4-7-20-6-20-6h-57c-6 0-9 1-12 6 0 0-9 25-21 45-25 43-35 45-40 42-9-5-7-24-7-37 0-45 7-61-13-65-13-2-59-4-73 3-7 4-11 11-8 12 3 0 12 1 17 7 8 13 9 75-2 81-15 11-53-62-62-86-2-6-5-7-12-9H79c-6 0-15 1-11 13 27 56 83 193 184 192z"></path></symbol><symbol id="icon-watch" viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6 8h2v1H5V5h1v3zm6 0c0 2.22-1.2 4.16-3 5.19V15c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1v-1.81C1.2 12.16 0 10.22 0 8s1.2-4.16 3-5.19V1c0-.55.45-1 1-1h4c.55 0 1 .45 1 1v1.81c1.8 1.03 3 2.97 3 5.19zm-1 0c0-2.77-2.23-5-5-5S1 5.23 1 8s2.23 5 5 5 5-2.23 5-5z"></path></symbol><symbol id="icon-whistle" viewBox="0 0 64.002 64.002"><path d="M63.002 22.988H23.938c-.108 0-.207.03-.305.061-6.527.394-12.219 3.902-15.596 9.073a5.007 5.007 0 00-1.069-.642 4.98 4.98 0 00-6.55 2.569 4.942 4.942 0 00-.071 3.807A4.94 4.94 0 002.989 40.6c.598.26 1.241.39 1.888.404a20.343 20.343 0 00-.105 2.061c0 11.07 9.006 20.077 20.077 20.077 11.07 0 20.077-9.006 20.077-20.077 0-2.961-.653-5.881-1.901-8.539h19.979a1 1 0 001-1v-9.538c-.002-.552-.45-1-1.002-1zm-35.064 2v4.652c0 .164-.22.348-.515.348h-1.97c-.294 0-.515-.184-.515-.348v-4.652h3zM4.759 39.006a3.002 3.002 0 01-.973-.24 2.953 2.953 0 01-1.578-1.64 2.957 2.957 0 01.043-2.277 2.98 2.98 0 013.915-1.536c.31.136.593.322.838.55l-.184.422a20.295 20.295 0 00-.704 1.612l-1.357 3.109zm35.749-4.979a18.073 18.073 0 012.417 9.038c0 9.967-8.109 18.077-18.077 18.077-9.968 0-18.077-8.109-18.077-18.077 0-2.252.433-4.4 1.188-6.391l.702-1.608c2.689-5.418 8.001-9.312 14.276-9.974v4.548c0 1.295 1.128 2.348 2.515 2.348h1.97c1.387 0 2.515-1.053 2.515-2.348v-4.652h25.295v7.538H41.373a1 1 0 00-.865 1.501zm21.494-1.501h-4.769v-7.538h4.769v7.538zM19.247 18.312a1 1 0 101.664-1.11l-6.359-9.539a1 1 0 10-1.664 1.11l6.359 9.539zM32.796 18.757a1 1 0 00.833-.445l6.359-9.539a1 1 0 00-1.664-1.11l-6.359 9.539a1.001 1.001 0 00.831 1.555zM26.438 15.578a1 1 0 001-1V1.86a1 1 0 00-2 0v12.718a1 1 0 001 1z"></path><path d="M17.641 34.746c-2.86.753-5.004 3.271-5.594 6.573-.65 3.634.762 7.164 3.686 9.213a.999.999 0 101.148-1.638c-2.723-1.909-3.265-4.983-2.864-7.224.452-2.526 2.036-4.438 4.134-4.99a1.001 1.001 0 00-.51-1.934z"></path></symbol><symbol id="icon-world-flag" viewBox="0 0 50 30"><g clip-path="url(#clip0_123_2)"><path fill="#F1F1F1" d="M0 0h50v30H0z"></path><g clip-path="url(#clip1_123_2)"><path d="M25 28c7.18 0 13-5.82 13-13S32.18 2 25 2 12 7.82 12 15s5.82 13 13 13z" fill="#86B6EE"></path><path d="M13.85 16.74c.257.012.48-.305.74-1.105.165-.5.641-.831 1.168-.812 0 0 .469.609.584 3.02.122 2.585 1.033 1.666 1.265 2.707.412 1.855 1.157 2.146 1.859 2.79.702.642 1.381-.875 1.86-2.79.477-1.916 1.023-1.15 1.859-1.86.835-.71.668-1.371 1.86-1.859 1.19-.488.904.035.93-.93.015-.631.116-1.253.312-1.396.54-.393.457-.482.617-1.394.16-.91-2.2-1.892-1.86-2.789a2.575 2.575 0 000-1.86s-1.056-.51-1.859 1.86c-.44 1.293-.778-.578-.93-.93-.152-.351 0-1.86 0-1.86-1.308-.475-.657.477-1.86 0-1.2-.475-1.573-.448-.929-1.859 0 0 .35-1.478-.61-2.13a12.995 12.995 0 00-6.852 11.295c.522.794 1.328 1.88 1.845 1.903zM33.72 5.36c.15.535.389 1.38.623 2.173.381 1.286.023 2.153 0 2.79-.023.635.957 2.86.93 2.788.337.233.586.572.708.962.048.79 1.165 1.04 1.997 1.666A12.966 12.966 0 0033.72 5.36zM26.905 5.673c1.753.293 2.716 1.013 3.623 1.104.805.081.02-1.146-.681-2.06a2.75 2.75 0 01-.443-1.95 12.947 12.947 0 00-3.782-.751c.452.555 1.105 1.195 1.194 1.496.129.438-1.156 1.953.089 2.16zM37.332 19.113c-.491-.596-1.61-1.84-2.06-1.352-.605.657-.04 2.782-.929 2.789-.89.007-2.208.894-2.9 2.304-.673 1.37-2.957.835-2.795 4.623a13.025 13.025 0 008.684-8.364z" fill="#666"></path></g><path stroke="#CFCFCF" d="M0 .5h50M0 29.5h50M.5 1v28M49.5 1v28"></path></g></symbol><symbol id="icon-x-circle" viewBox="0 0 24 24"><path d="M9.036 7.976a.75.75 0 00-1.06 1.06L10.939 12l-2.963 2.963a.75.75 0 101.06 1.06L12 13.06l2.963 2.964a.75.75 0 001.061-1.06L13.061 12l2.963-2.964a.75.75 0 10-1.06-1.06L12 10.939 9.036 7.976z"></path><path fill-rule="evenodd" d="M12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zM2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0z"></path></symbol><symbol id="icon-youtube" viewBox="0 0 512 512"><rect width="512" height="512" fill="#ed1d24" rx="15%"></rect><path d="M427 169c-4-15-17-27-32-31-34-9-239-10-278 0-15 4-28 16-32 31-9 38-10 135 0 174 4 15 17 27 32 31 36 10 241 10 278 0 15-4 28-16 32-31 9-36 9-137 0-174" fill="#fff"></path><path fill="#ed1d24" d="M220 203v106l93-53"></path></symbol></svg>
+<p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" hidden="hidden">Notifications</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 0px; z-index: 105; cursor: default; position: fixed; top: 0px; left: 1583px; height: 773px; opacity: 1; display: none;"><div class="nicescroll-cursors" style="position: relative; top: 0px; float: right; width: 0px; height: 773px; background-color: transparent; border: 0px; background-clip: padding-box; border-radius: 0px;"></div></div><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-kldkc3bwx6gm" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="./bg_files/anchor.html"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;" src="./bg_files/saved_resource(1).html"></iframe></div></body></html>
